@@ -25,8 +25,8 @@ def update_lambda_vpc_config(aws_config):
 
         # VPC Configuration
         vpc_config = {
-            'SubnetIds': ['subnet-0a725a387d73af253'],
-            'SecurityGroupIds': ['sg-00c77a022eac6bd2a']
+            'SubnetIds': ['subnet-0aXXXXXXXXXXXX'],
+            'SecurityGroupIds': ['sg-00cXXXXXXXXXX']
         }
 
         # List of Lambda functions to update
