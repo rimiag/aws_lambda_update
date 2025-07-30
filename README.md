@@ -47,3 +47,4 @@ This repository contains scripts to bulk update VPC configurations for multiple 
 ```bash
 git clone https://github.com/yourusername/lambda-vpc-updater.git
 cd lambda-vpc-updater
+pip install -r requirements.txt
