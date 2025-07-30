@@ -1,0 +1,1 @@
+aws lambda update-function-configuration --function-name bt_lambda_function_test1  --vpc-config SubnetIds=subnet-0a725a387d73af253,SecurityGroupIds=sg-00c77a022eac6bd2a 
